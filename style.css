@@ -1,5 +1,33 @@
 div{
-    background-color: tomato;
+    background-color:azure;
     padding: 10px;
     margin-bottom: 10px;
+    color: black;
+    border: solid 1px black;
+    border-radius: 20px;
+
+}
+img{
+    height: 200px;
+    width: 100%;
+}
+h1{
+    color: burlywood;
+    font-style: italic;
+    
+}
+
+div ul{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+}
+div ul li{
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+}
+div li{
+    text-decoration: none;
+   
 }
